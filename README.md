@@ -60,3 +60,4 @@ The logistic regression model achieves strong classification performance. Featur
 This project demonstrates a complete machine learning pipeline for text classification, from data preprocessing through model evaluation and interpretation. The robust error handling mechanisms ensure the analysis can run in various environments, making it accessible to users with different system configurations.
 
 **output:-**
+![Image](https://github.com/user-attachments/assets/6e00f185-d03e-41c9-8dc7-05c8db13fb4c)
